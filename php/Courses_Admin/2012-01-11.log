@@ -1,0 +1,5 @@
+insert into log ( user_id, event_id, tag1, tag2, tag3, mtime ) values ( '','1','66.249.69.244','20120111124617','2305309','2012-01-11 12:46:36');
+insert into log ( user_id, event_id, tag1, tag2, tag3, mtime ) values ( '','1','66.249.69.244','20120111124636','2305310','2012-01-11 12:46:55');
+insert into log ( user_id, event_id, tag1, tag2, tag3, mtime ) values ( '','1','66.249.69.244','20120111124655','2305311','2012-01-11 12:47:14');
+insert into log ( user_id, event_id, tag1, tag2, tag3, mtime ) values ( '','1','66.249.69.244','20120111124714','2305312','2012-01-11 12:47:33');
+insert into log ( user_id, event_id, tag1, tag2, tag3, mtime ) values ( '','1','66.249.69.244','20120111124733','2305313','2012-01-11 12:48:10');

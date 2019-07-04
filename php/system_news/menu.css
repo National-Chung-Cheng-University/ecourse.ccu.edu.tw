@@ -1,0 +1,48 @@
+<style>
+<!--
+.menuskin{
+position:absolute;
+width:100px;
+background-color:#f7f7f7;
+border:1px solid #73bed6;
+font:normal 9pt Verdana;
+line-height:18px;
+z-index:100;
+visibility:hidden;
+}
+.menu200skin {
+position:absolute;
+width:260px;
+background-color:#f7f7f7;
+border:1px solid #73bed6;
+font:normal 9pt Verdana;
+line-height:18px;
+z-index:100;
+visibility:hidden;
+}
+
+.menu200skin a{
+text-decoration:none;
+color:#313839;
+padding-left:10px;
+padding-right:10px;
+}
+
+
+.menuskin a{
+text-decoration:none;
+color:#313839;
+padding-left:10px;
+padding-right:10px;
+}
+
+#mouseoverstyle{
+background-color:#398ec6;
+}
+
+#mouseoverstyle a{
+color:white;
+}
+-->
+</style>
+
